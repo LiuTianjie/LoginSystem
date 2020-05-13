@@ -37,7 +37,6 @@ export default {
       }
     };
   },
-  components: {},
   methods: {
     async toLogin() {
       if (this.form.psw == "") {
